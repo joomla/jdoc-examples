@@ -1,4 +1,4 @@
-com_helloworld
+Joomla Documentation
 ==============
 
-This repository contains the code for the MVC tutorials found on the Joomla! Documentation Wiki
+This repository contains the zip files for the tutorials found on the Joomla! Documentation Wiki
